@@ -5,4 +5,4 @@ time.sleep (5)
 while True:
     pg.write ('pizza')
     pg.press ('enter')
-    pg.write ('nemtum')
+    pg.write ('nemtom')
